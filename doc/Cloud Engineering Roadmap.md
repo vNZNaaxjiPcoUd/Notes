@@ -43,5 +43,5 @@ Explore cloud-native application development
 
 This roadmap is a general guide, and the specific skills you'll need will vary depending on your specific cloud engineering role.
 
-!(PIC)[./CERoadmap.png]
+![PIC](./CERoadmap.png)
 
