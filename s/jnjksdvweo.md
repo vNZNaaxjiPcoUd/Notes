@@ -4,4 +4,6 @@ layout: listpage
 ---
 
 {% assign pp = site.pages | sort_natural: "name" %}
-{% for p in pp %}[{{ p.scname }}  ]({{ p.url }}) {% endfor %}
+{% for p in pp %}{% if p.scname %}[{{ p.scname }}  ]({{ p.url }}) {% endif %}{% endfor %}
+
+
