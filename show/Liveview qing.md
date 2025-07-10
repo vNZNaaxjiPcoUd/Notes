@@ -1,5 +1,5 @@
 ---
 layout: youtube
-show: Ｑing
+show: Qing
 song: FQZ2UgvuzW8
 ---
