@@ -9,6 +9,8 @@ layout: listpage
 {% assign pp = site.pages | sort_natural: "title" %}
 {% for p in pp %}[🔹{{ p.title }}  ]({{ p.url }}) {% endfor %}
 🍀
+[share short cut](https://share.jwint.net/s/jnjksdvweo)
+
 
 🍀
 
@@ -16,9 +18,3 @@ layout: listpage
 
 🍀
 
-🍀
-
-{% assign pp = site.pages | sort_natural: "title" %}
-{% for p in pp %}
-[🔹{{ p.title }} ]({{ p.url }}) 
-{% endfor %}
