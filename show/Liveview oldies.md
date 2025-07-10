@@ -1,5 +1,5 @@
 ---
 layout: youtube
-show: 🎥 Oldies
+show: Oldies
 song: 0beRSynjNY0
 ---

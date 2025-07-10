@@ -1,5 +1,5 @@
 ---
 layout: youtube
-show: 🎥 Japanese Incense
+show: Japanese Incense
 song: BU43ULq-DPU
 ---

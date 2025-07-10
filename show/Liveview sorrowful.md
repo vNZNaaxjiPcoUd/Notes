@@ -1,5 +1,5 @@
 ---
 layout: youtube
-show: 🎥 sorrowful
+show: sorrowful
 song: 6ZRcEEHlggc
 ---

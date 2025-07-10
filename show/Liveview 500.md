@@ -1,5 +1,5 @@
 ---
 layout: youtube
-show: 🎥 500
+show: 500
 song: SR0aN_neEu8
 ---

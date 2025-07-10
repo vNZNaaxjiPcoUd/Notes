@@ -1,5 +1,5 @@
 ---
 layout: youtube
-show: 🎥 tmp
+show: tmp
 song: CLNXiaY4uec
 ---

@@ -1,6 +1,6 @@
 ---
 layout: youtube
-show: 🎥 Shakuhachi 尺八
+show: Shakuhachi 尺八
 song: miUKO5g0ONk
 ---
 
