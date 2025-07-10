@@ -1,5 +1,6 @@
-jekyll setup
-============
+Jekyll setup for markdown file render to web in github
+====================================================================
+
 [jeklly doc](https://jekyllrb.com/docs/variables/)
 
 [liquid](https://shopify.github.io/liquid/)
