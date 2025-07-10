@@ -1,5 +1,5 @@
 ---
-title: short cut
+title: Short cut list
 layout: listpage
 ---
 
