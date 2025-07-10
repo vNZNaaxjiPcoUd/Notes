@@ -115,7 +115,14 @@ Count:<label id="cnT">0</label><br>
       //console.log("cntt");
     }
 
-    setInterval(upPage, 1000);
+    const intervalId = setInterval(upPage, 1000);
+
+    function StopUpdate(){
+      clearInterval(intervalId);
+    }
+
+    setTimeout(StopUpdate,900000);
+
 </script>
 
 
