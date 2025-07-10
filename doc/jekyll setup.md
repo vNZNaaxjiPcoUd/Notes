@@ -1,4 +1,4 @@
-Jekyll setup for markdown file render to web in github
+Jekyll setup for markdown file render to html in github
 ====================================================================
 
 [jeklly doc](https://jekyllrb.com/docs/variables/)
