@@ -6,7 +6,7 @@ layout: listpage
 {{ site.time | date: "%m-%d %H:%M:%S" }}
 
 ### d.
-{% assign pp = site.doc | sort_natural: "title" %}
+{% assign pp = site.pages | sort_natural: "title" %}
 {% for p in pp %} {% if p.title %} [🔹{{ p.title }}  ]({{ p.url }}) {% endif %} {% endfor %}
 🍀
 [Shortcut](https://share.jwint.net/s/jnjksdvweo)
