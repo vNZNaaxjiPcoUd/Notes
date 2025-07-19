@@ -1,6 +1,7 @@
 Federal Electric Vehicle Tax Credit
 ==================================
 
+## transfer the Federal Electric Vehicle (EV) Tax Credit
 With an income of $10,000 in 2025, you are eligible to transfer the Federal Electric Vehicle (EV) Tax Credit to a registered dealer at the time of purchase, allowing you to receive up to $7,500 off a new qualifying EV or $4,000 off a used qualifying EV as a direct discount. This is an excellent option for you since your low income likely means you have little to no federal tax liability, which would otherwise limit your ability to claim the credit on your tax return. Here’s a concise guide on what you can do to use the credit transfer:
 
 1. **Find a Qualifying Vehicle**:
@@ -42,6 +43,7 @@ With an income of $10,000 in 2025, you are eligible to transfer the Federal Elec
 
 If you have a specific vehicle, budget, or location in mind, I can help you find eligible models or check local incentives! Let me know if you need assistance with those details.
 
+## Income of 10000 in 2025 is too low ? 
 Your income of $10,000 in 2025 is **not too low** to qualify for the Federal Electric Vehicle (EV) Tax Credit when you transfer it to the dealer at the time of purchase. In fact, the transfer option is ideal for you because it allows you to benefit from the credit (up to $7,500 for a new EV or $4,000 for a used EV) as a direct discount on the vehicle price, regardless of your income or tax liability. Here’s why your income works and what to keep in mind:
 
 ### Why Your Income Is Fine
