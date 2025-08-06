@@ -1,6 +1,6 @@
 AJS service
 ===========
-- [qBittorrent](https://qb.sistrunk.synology.me/)
+- [qBittorrent](https://qb.sistrunk.synology.me//)
 - [Akounting](https://AJF.sistrunk.synology.me)
 - [Glances](https://glances.sistrunk.synology.me)
 - [Radarr](https://radarr.sistrunk.synology.me)
